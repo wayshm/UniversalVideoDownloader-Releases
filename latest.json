@@ -1,7 +1,7 @@
 {
-  "Version": "3.40.35",
-  "Tag": "v3.40.35",
-  "DownloadUrl": "https://github.com/wayshm/UniversalVideoDownloader-Releases/releases/download/v3.40.35/UniversalVideoDownloader_v3.40.35_win-x64.zip",
-  "Sha256": "0DD3ECEFD65C58C7A59CE8325149BB2EF7A18B0AF82FEFEB49BA4E9954F78E2B",
+  "Version": "3.40.36",
+  "Tag": "v3.40.36",
+  "DownloadUrl": "https://github.com/wayshm/UniversalVideoDownloader-Releases/releases/download/v3.40.36/UniversalVideoDownloader_v3.40.36_win-x64.zip",
+  "Sha256": "0937519652F3264F4432027EE63BE8B270D3AE8644A88610DE948FBD95CA40EC",
   "Mandatory": false
 }
