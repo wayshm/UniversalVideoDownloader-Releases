@@ -1,8 +1,8 @@
-﻿![Universal Video Downloader — обновление 3.44.185](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.185/images/03ce733e86fc2be4de054769.png)
+﻿![Universal Video Downloader — обновление 3.44.186](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.185/images/03ce733e86fc2be4de054769.png)
 
 ## ✨ Главное в обновлении
 
-В релизе **3.44.185** улучшены загрузка видео, работа UVD Mobile, интеграция с браузером, управление сервером Windows и отдельная очередь просмотров для статистики YouTube.
+В релизе **3.44.186** улучшены загрузка видео, работа UVD Mobile, интеграция с браузером, управление сервером Windows и отдельная очередь просмотров для статистики YouTube.
 
 | Область | Что нового |
 | --- | --- |
@@ -59,8 +59,6 @@
 - Шрифтовые значки заменены на **встроенные векторные иконки**, не требующие специальных шрифтов Windows.
 - Улучшены локализация RU/EN и отображение динамических надписей в настройках.
 - Доработано управление сервером, работающим как служба Windows.
-
-
 
 
 
