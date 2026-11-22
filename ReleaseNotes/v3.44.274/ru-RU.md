@@ -1,4 +1,4 @@
-﻿**Большое обновление Windows, Android, Android TV и браузерной интеграции**  
+﻿**Большое обновление Windows, Android, Android TV и браузерной интеграции**
 **Период изменений: v3.44.186 → v3.44.27**
 
 > 🆕 Единое «Избранное», продолжение просмотра на разных устройствах, быстрый доступ к видео на телефоне, улучшенный встроенный плеер и более надёжная работа серверов и браузера.
@@ -15,7 +15,7 @@
 - Изменения сохраняются локально при отсутствии сети; при подключении синхронизируются и добавления, и снятия отметок.
 - Список избранного хранится независимо от истории загрузок.
 
-![Избранное в контекстном меню Windows UVD](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/b29aa8aa464f4097e828dc15.png)
+![Изображение](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/d1d27c5670d7f84c5e53cdfa.png)
 
 *Иллюстрация: команда «Избранное» в меню очереди загрузок Windows.*
 
@@ -32,7 +32,7 @@
 - Не выделенные пользователем строки не запускаются; повторный просмотр ранее завершённого ролика начинается с начала.
 - Сохранены действия «Просмотреть», «Просмотрено», удаление, история и обработка неудачных просмотров.
 
-![Очередь просмотров для статистики](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/81330994b4873ce0b515b070.png)
+![Изображение](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/f634b3a794d0bdb57a42de16.png)
 
 ## 📱 Мобильный UVD: быстрый доступ без лишних переходов
 
@@ -46,7 +46,6 @@
 
 ![Быстрые фильтры в шторке UVD Mobile](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/b4b766ea0062331f3714b996.png)
 
-
 ## 🔄 Продолжение просмотра на другом устройстве
 
 **Позиция воспроизведения синхронизируется** между встроенными плеерами UVD на телефоне, магнитоле, телевизоре и проекторе через подключённый UVD-сервер или сервер телефона.
@@ -59,6 +58,8 @@
 > ℹ️ Для синхронизации устройства должны иметь связь с одним UVD-сервером или подключённым к нему сервером телефона. Сторонние плееры не всегда передают UVD свою позицию.
 
 ## 🎬 UVD Player для Android TV, проектора и магнитолы
+
+![Изображение](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/ddd603113e7ece1162985031.png)
 
 - На автомобильных экранах добавлен режим **крупных кнопок плеера ×3** с увеличенными областями нажатия; его можно включить вручную в настройках.
 - Увеличены элементы управления скоростью и кнопка плавающего окна (PiP); исправлены наложение подписей на стрелки и скачки боковых кнопок при скрытии панели.
@@ -79,7 +80,7 @@
 - **Загрузка:** анимированный индикатор ожидания встроен непосредственно в EXE, без зависимости от внешней папки с кадрами.
 - Улучшена передача сервером метаданных выбранного качества, включая оценку размера **≈**, фактический размер и длительность.
 
-![Очередь Windows UVD и состояния загрузки](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/ae14819abb50518a44e8c070.png)
+![Изображение](https://raw.githubusercontent.com/wayshm/UniversalVideoDownloader-Releases/main/ReleaseNotes/v3.44.274/images/f0da6dfc36ecfaa69859acc1.png)
 
 ## 🌐 Сервер, удалённый доступ и Browser Integration
 
@@ -96,7 +97,7 @@
 ## 🛠️ Техническая информация
 
 | Компонент | Версия / параметры |
-|---|---|
+| --- | --- |
 | **Windows UVD** | **3.44.271**, Windows x64, .NET 10, framework-dependent |
 | **Android UVD Mobile / Player** | **1.1.267**, `versionCode 268` |
 | **Browser Integration** | **1.0.23** |
